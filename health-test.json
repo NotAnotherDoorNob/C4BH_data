@@ -1,0 +1,899 @@
+nodes: [
+    {
+      name: "65-74",
+      color: "#d42815"
+    },
+    {
+      name: "75-84",
+      color: "#ff5f42"
+    },
+    {
+      name: "85-94",
+      color: "#ff621f"
+    },
+    {
+      name: "95-104",
+      color: "#ff961f"
+    },
+    {
+      name: "105+",
+      color: "#e6ca19"
+    },
+    {
+      name: "AVULSION",
+      color: "#138514"
+    },
+    {
+      name: "CONCUSSION",
+      color: "#134485"
+    },
+    {
+      name: "CONTUSIONS, ABR.",
+      color: "#2b8bff"
+    },
+    {
+      name: "DISLOCATION",
+      color: "#40d43d"
+    },
+    {
+      name: "FRACTURE",
+      color: "#771cb0"
+    },
+    {
+      name: "HEMATOMA",
+      color: "#723078"
+    },
+    {
+      name: "INTERNAL INJURY",
+      color: "#4700ed"
+    },
+    {
+      name: "LACERATION",
+      color: "#38d6d1"
+    },
+    {
+      name: "OTHER",
+      color: "#2bffa7"
+    },
+    {
+      name: "POISON, NERVE DAMAGE, ETC",
+      color: "#132f85"
+    },
+    {
+      name: "STRAIN, SPRAIN",
+      color: "#1500ff"
+    },
+    {
+      name: "FACE"
+    },
+    {
+      name: "HEAD"
+    },
+    {
+      name: "KNEE"
+    },
+    {
+      name: "LOWER ARM"
+    },
+    {
+      name: "LOWER LEG"
+    },
+    {
+      name: "LOWER TRUNK"
+    },
+    {
+      name: "OTHER BODY PART"
+    },
+    {
+      name: "SHOULDER"
+    },
+    {
+      name: "UPPER ARM"
+    },
+    {
+      name: "UPPER TRUNK"
+    },
+    {
+      name: "WRIST"
+    },
+    {
+      name: "UPPER LEG"
+    }
+  ],
+  links: [
+    {
+      source: "65-74",
+      target: "AVULSION",
+      value: 312
+    },
+    {
+      source: "65-74",
+      target: "CONCUSSION",
+      value: 512
+    },
+    {
+      source: "65-74",
+      target: "CONTUSIONS, ABR.",
+      value: 7568
+    },
+    {
+      source: "65-74",
+      target: "DISLOCATION",
+      value: 689
+    },
+    {
+      source: "65-74",
+      target: "FRACTURE",
+      value: 14049
+    },
+    {
+      source: "65-74",
+      target: "HEMATOMA",
+      value: 1126
+    },
+    {
+      source: "65-74",
+      target: "INTERNAL INJURY",
+      value: 11102
+    },
+    {
+      source: "65-74",
+      target: "LACERATION",
+      value: 4459
+    },
+    {
+      source: "65-74",
+      target: "OTHER",
+      value: 1099
+    },
+    {
+      source: "65-74",
+      target: "POISON, NERVE DAMAGE, ETC",
+      value: 565
+    },
+    {
+      source: "65-74",
+      target: "STRAIN, SPRAIN",
+      value: 2260
+    },
+    {
+      source: "75-84",
+      target: "AVULSION",
+      value: 643
+    },
+    {
+      source: "75-84",
+      target: "CONCUSSION",
+      value: 290
+    },
+    {
+      source: "75-84",
+      target: "CONTUSIONS, ABR.",
+      value: 6806
+    },
+    {
+      source: "75-84",
+      target: "DISLOCATION",
+      value: 467
+    },
+    {
+      source: "75-84",
+      target: "FRACTURE",
+      value: 12557
+    },
+    {
+      source: "75-84",
+      target: "HEMATOMA",
+      value: 1394
+    },
+    {
+      source: "75-84",
+      target: "INTERNAL INJURY",
+      value: 11147
+    },
+    {
+      source: "75-84",
+      target: "LACERATION",
+      value: 4370
+    },
+    {
+      source: "75-84",
+      target: "OTHER",
+      value: 833
+    },
+    {
+      source: "75-84",
+      target: "POISON, NERVE DAMAGE, ETC",
+      value: 292
+    },
+    {
+      source: "75-84",
+      target: "STRAIN, SPRAIN",
+      value: 1145
+    },
+    {
+      source: "85-94",
+      target: "AVULSION",
+      value: 768
+    },
+    {
+      source: "85-94",
+      target: "CONCUSSION",
+      value: 121
+    },
+    {
+      source: "85-94",
+      target: "CONTUSIONS, ABR.",
+      value: 4489
+    },
+    {
+      source: "85-94",
+      target: "DISLOCATION",
+      value: 170
+    },
+    {
+      source: "85-94",
+      target: "FRACTURE",
+      value: 9186
+    },
+    {
+      source: "85-94",
+      target: "HEMATOMA",
+      value: 1018
+    },
+    {
+      source: "85-94",
+      target: "INTERNAL INJURY",
+      value: 7583
+    },
+    {
+      source: "85-94",
+      target: "LACERATION",
+      value: 3114
+    },
+    {
+      source: "85-94",
+      target: "OTHER",
+      value: 526
+    },
+    {
+      source: "85-94",
+      target: "POISON, NERVE DAMAGE, ETC",
+      value: 132
+    },
+    {
+      source: "85-94",
+      target: "STRAIN, SPRAIN",
+      value: 484
+    },
+    {
+      source: "95-104",
+      target: "AVULSION",
+      value: 120
+    },
+    {
+      source: "95-104",
+      target: "CONCUSSION",
+      value: 14
+    },
+    {
+      source: "95-104",
+      target: "CONTUSIONS, ABR.",
+      value: 614
+    },
+    {
+      source: "95-104",
+      target: "DISLOCATION",
+      value: 10
+    },
+    {
+      source: "95-104",
+      target: "FRACTURE",
+      value: 1321
+    },
+    {
+      source: "95-104",
+      target: "HEMATOMA",
+      value: 132
+    },
+    {
+      source: "95-104",
+      target: "INTERNAL INJURY",
+      value: 995
+    },
+    {
+      source: "95-104",
+      target: "LACERATION",
+      value: 467
+    },
+    {
+      source: "95-104",
+      target: "OTHER",
+      value: 64
+    },
+    {
+      source: "95-104",
+      target: "POISON, NERVE DAMAGE, ETC",
+      value: 9
+    },
+    {
+      source: "95-104",
+      target: "STRAIN, SPRAIN",
+      value: 62
+    },
+    {
+      source: "105+",
+      target: "AVULSION",
+      value: 2
+    },
+    {
+      source: "105+",
+      target: "CONTUSIONS, ABR.",
+      value: 6
+    },
+    {
+      source: "105+",
+      target: "FRACTURE",
+      value: 12
+    },
+    {
+      source: "105+",
+      target: "HEMATOMA",
+      value: 1
+    },
+    {
+      source: "105+",
+      target: "INTERNAL INJURY",
+      value: 16
+    },
+    {
+      source: "105+",
+      target: "LACERATION",
+      value: 7
+    },
+    {
+      source: "AVULSION",
+      target: "FACE",
+      value: 51
+    },
+    {
+      source: "AVULSION",
+      target: "HEAD",
+      value: 38
+    },
+    {
+      source: "AVULSION",
+      target: "KNEE",
+      value: 44
+    },
+    {
+      source: "AVULSION",
+      target: "LOWER ARM",
+      value: 590
+    },
+    {
+      source: "AVULSION",
+      target: "LOWER LEG",
+      value: 208
+    },
+    {
+      source: "AVULSION",
+      target: "LOWER TRUNK",
+      value: 5
+    },
+    {
+      source: "AVULSION",
+      target: "OTHER BODY PART",
+      value: 723
+    },
+    {
+      source: "AVULSION",
+      target: "SHOULDER",
+      value: 13
+    },
+    {
+      source: "AVULSION",
+      target: "UPPER ARM",
+      value: 126
+    },
+    {
+      source: "AVULSION",
+      target: "UPPER TRUNK",
+      value: 7
+    },
+    {
+      source: "AVULSION",
+      target: "WRIST",
+      value: 40
+    },
+    {
+      source: "CONCUSSION",
+      target: "HEAD",
+      value: 937
+    },
+    {
+      source: "CONTUSIONS, ABR.",
+      target: "FACE",
+      value: 3874
+    },
+    {
+      source: "CONTUSIONS, ABR.",
+      target: "HEAD",
+      value: 2849
+    },
+    {
+      source: "CONTUSIONS, ABR.",
+      target: "KNEE",
+      value: 2191
+    },
+    {
+      source: "CONTUSIONS, ABR.",
+      target: "LOWER ARM",
+      value: 482
+    },
+    {
+      source: "CONTUSIONS, ABR.",
+      target: "LOWER LEG",
+      value: 538
+    },
+    {
+      source: "CONTUSIONS, ABR.",
+      target: "LOWER TRUNK",
+      value: 3651
+    },
+    {
+      source: "CONTUSIONS, ABR.",
+      target: "OTHER BODY PART",
+      value: 1645
+    },
+    {
+      source: "CONTUSIONS, ABR.",
+      target: "SHOULDER",
+      value: 1143
+    },
+    {
+      source: "CONTUSIONS, ABR.",
+      target: "UPPER ARM",
+      value: 170
+    },
+    {
+      source: "CONTUSIONS, ABR.",
+      target: "UPPER LEG",
+      value: 117
+    },
+    {
+      source: "CONTUSIONS, ABR.",
+      target: "UPPER TRUNK",
+      value: 2664
+    },
+    {
+      source: "CONTUSIONS, ABR.",
+      target: "WRIST",
+      value: 159
+    },
+    {
+      source: "DISLOCATION",
+      target: "FACE",
+      value: 7
+    },
+    {
+      source: "DISLOCATION",
+      target: "KNEE",
+      value: 53
+    },
+    {
+      source: "DISLOCATION",
+      target: "LOWER LEG",
+      value: 1
+    },
+    {
+      source: "DISLOCATION",
+      target: "LOWER TRUNK",
+      value: 311
+    },
+    {
+      source: "DISLOCATION",
+      target: "OTHER BODY PART",
+      value: 261
+    },
+    {
+      source: "DISLOCATION",
+      target: "SHOULDER",
+      value: 690
+    },
+    {
+      source: "DISLOCATION",
+      target: "UPPER ARM",
+      value: 2
+    },
+    {
+      source: "DISLOCATION",
+      target: "UPPER LEG",
+      value: 1
+    },
+    {
+      source: "DISLOCATION",
+      target: "UPPER TRUNK",
+      value: 1
+    },
+    {
+      source: "DISLOCATION",
+      target: "WRIST",
+      value: 9
+    },
+    {
+      source: "FRACTURE",
+      target: "FACE",
+      value: 1966
+    },
+    {
+      source: "FRACTURE",
+      target: "HEAD",
+      value: 179
+    },
+    {
+      source: "FRACTURE",
+      target: "KNEE",
+      value: 928
+    },
+    {
+      source: "FRACTURE",
+      target: "LOWER ARM",
+      value: 1077
+    },
+    {
+      source: "FRACTURE",
+      target: "LOWER LEG",
+      value: 1017
+    },
+    {
+      source: "FRACTURE",
+      target: "LOWER TRUNK",
+      value: 11849
+    },
+    {
+      source: "FRACTURE",
+      target: "OTHER BODY PART",
+      value: 4489
+    },
+    {
+      source: "FRACTURE",
+      target: "SHOULDER",
+      value: 1766
+    },
+    {
+      source: "FRACTURE",
+      target: "UPPER ARM",
+      value: 2629
+    },
+    {
+      source: "FRACTURE",
+      target: "UPPER LEG",
+      value: 3115
+    },
+    {
+      source: "FRACTURE",
+      target: "UPPER TRUNK",
+      value: 5927
+    },
+    {
+      source: "FRACTURE",
+      target: "WRIST",
+      value: 2183
+    },
+    {
+      source: "HEMATOMA",
+      target: "FACE",
+      value: 1072
+    },
+    {
+      source: "HEMATOMA",
+      target: "HEAD",
+      value: 1773
+    },
+    {
+      source: "HEMATOMA",
+      target: "KNEE",
+      value: 63
+    },
+    {
+      source: "HEMATOMA",
+      target: "LOWER ARM",
+      value: 62
+    },
+    {
+      source: "HEMATOMA",
+      target: "LOWER LEG",
+      value: 127
+    },
+    {
+      source: "HEMATOMA",
+      target: "LOWER TRUNK",
+      value: 301
+    },
+    {
+      source: "HEMATOMA",
+      target: "OTHER BODY PART",
+      value: 115
+    },
+    {
+      source: "HEMATOMA",
+      target: "SHOULDER",
+      value: 7
+    },
+    {
+      source: "HEMATOMA",
+      target: "UPPER ARM",
+      value: 17
+    },
+    {
+      source: "HEMATOMA",
+      target: "UPPER LEG",
+      value: 92
+    },
+    {
+      source: "HEMATOMA",
+      target: "UPPER TRUNK",
+      value: 34
+    },
+    {
+      source: "HEMATOMA",
+      target: "WRIST",
+      value: 8
+    },
+    {
+      source: "INTERNAL INJURY",
+      target: "HEAD",
+      value: 30303
+    },
+    {
+      source: "INTERNAL INJURY",
+      target: "LOWER TRUNK",
+      value: 51
+    },
+    {
+      source: "INTERNAL INJURY",
+      target: "OTHER BODY PART",
+      value: 6
+    },
+    {
+      source: "INTERNAL INJURY",
+      target: "UPPER TRUNK",
+      value: 483
+    },
+    {
+      source: "LACERATION",
+      target: "FACE",
+      value: 4450
+    },
+    {
+      source: "LACERATION",
+      target: "HEAD",
+      value: 4960
+    },
+    {
+      source: "LACERATION",
+      target: "KNEE",
+      value: 183
+    },
+    {
+      source: "LACERATION",
+      target: "LOWER ARM",
+      value: 427
+    },
+    {
+      source: "LACERATION",
+      target: "LOWER LEG",
+      value: 531
+    },
+    {
+      source: "LACERATION",
+      target: "LOWER TRUNK",
+      value: 39
+    },
+    {
+      source: "LACERATION",
+      target: "OTHER BODY PART",
+      value: 1655
+    },
+    {
+      source: "LACERATION",
+      target: "SHOULDER",
+      value: 10
+    },
+    {
+      source: "LACERATION",
+      target: "UPPER ARM",
+      value: 82
+    },
+    {
+      source: "LACERATION",
+      target: "UPPER LEG",
+      value: 17
+    },
+    {
+      source: "LACERATION",
+      target: "UPPER TRUNK",
+      value: 21
+    },
+    {
+      source: "LACERATION",
+      target: "WRIST",
+      value: 42
+    },
+    {
+      source: "OTHER",
+      target: "FACE",
+      value: 129
+    },
+    {
+      source: "OTHER",
+      target: "HEAD",
+      value: 73
+    },
+    {
+      source: "OTHER",
+      target: "KNEE",
+      value: 273
+    },
+    {
+      source: "OTHER",
+      target: "LOWER ARM",
+      value: 43
+    },
+    {
+      source: "OTHER",
+      target: "LOWER LEG",
+      value: 169
+    },
+    {
+      source: "OTHER",
+      target: "LOWER TRUNK",
+      value: 472
+    },
+    {
+      source: "OTHER",
+      target: "OTHER BODY PART",
+      value: 833
+    },
+    {
+      source: "OTHER",
+      target: "SHOULDER",
+      value: 202
+    },
+    {
+      source: "OTHER",
+      target: "UPPER ARM",
+      value: 13
+    },
+    {
+      source: "OTHER",
+      target: "UPPER LEG",
+      value: 12
+    },
+    {
+      source: "OTHER",
+      target: "UPPER TRUNK",
+      value: 236
+    },
+    {
+      source: "OTHER",
+      target: "WRIST",
+      value: 67
+    },
+    {
+      source: "POISON, NERVE DAMAGE, ETC",
+      target: "FACE",
+      value: 99
+    },
+    {
+      source: "POISON, NERVE DAMAGE, ETC",
+      target: "HEAD",
+      value: 26
+    },
+    {
+      source: "POISON, NERVE DAMAGE, ETC",
+      target: "KNEE",
+      value: 12
+    },
+    {
+      source: "POISON, NERVE DAMAGE, ETC",
+      target: "LOWER ARM",
+      value: 14
+    },
+    {
+      source: "POISON, NERVE DAMAGE, ETC",
+      target: "LOWER LEG",
+      value: 23
+    },
+    {
+      source: "POISON, NERVE DAMAGE, ETC",
+      target: "LOWER TRUNK",
+      value: 180
+    },
+    {
+      source: "POISON, NERVE DAMAGE, ETC",
+      target: "OTHER BODY PART",
+      value: 599
+    },
+    {
+      source: "POISON, NERVE DAMAGE, ETC",
+      target: "SHOULDER",
+      value: 5
+    },
+    {
+      source: "POISON, NERVE DAMAGE, ETC",
+      target: "UPPER ARM",
+      value: 6
+    },
+    {
+      source: "POISON, NERVE DAMAGE, ETC",
+      target: "UPPER LEG",
+      value: 4
+    },
+    {
+      source: "POISON, NERVE DAMAGE, ETC",
+      target: "UPPER TRUNK",
+      value: 28
+    },
+    {
+      source: "POISON, NERVE DAMAGE, ETC",
+      target: "WRIST",
+      value: 2
+    },
+    {
+      source: "STRAIN, SPRAIN",
+      target: "FACE",
+      value: 1
+    },
+    {
+      source: "STRAIN, SPRAIN",
+      target: "KNEE",
+      value: 452
+    },
+    {
+      source: "STRAIN, SPRAIN",
+      target: "LOWER ARM",
+      value: 8
+    },
+    {
+      source: "STRAIN, SPRAIN",
+      target: "LOWER LEG",
+      value: 48
+    },
+    {
+      source: "STRAIN, SPRAIN",
+      target: "LOWER TRUNK",
+      value: 804
+    },
+    {
+      source: "STRAIN, SPRAIN",
+      target: "OTHER BODY PART",
+      value: 1356
+    },
+    {
+      source: "STRAIN, SPRAIN",
+      target: "SHOULDER",
+      value: 567
+    },
+    {
+      source: "STRAIN, SPRAIN",
+      target: "UPPER ARM",
+      value: 14
+    },
+    {
+      source: "STRAIN, SPRAIN",
+      target: "UPPER LEG",
+      value: 88
+    },
+    {
+      source: "STRAIN, SPRAIN",
+      target: "UPPER TRUNK",
+      value: 224
+    },
+    {
+      source: "STRAIN, SPRAIN",
+      target: "WRIST",
+      value: 389
+    }
+  ]
