@@ -1,4 +1,4 @@
-nodes: [
+[nodes: [
     {
       name: "65-74",
       color: "#d42815"
@@ -896,4 +896,4 @@ nodes: [
       target: "WRIST",
       value: 389
     }
-  ]
+  ]]
