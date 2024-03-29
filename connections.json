@@ -1,302 +1,137 @@
-[
-        {
-            "source": "Acute Care Settings",
-            "target": "Req. for Information",
-            "value": 109
-        },
-        {
-            "source": "Acute Care Settings",
-            "target": "Information Delivery",
-            "value": 109
-        },
-        {
-            "source": "Acute Care Settings",
-            "target": "Req. for Notifications",
-            "value": 108
-        },
-        {
-            "source": "Ambulatory Care Settings",
-            "target": "Req. for Information",
-            "value": 168
-        },
-        {
-            "source": "Ambulatory Care Settings",
-            "target": "Information Delivery",
-            "value": 167
-        },
-        {
-            "source": "Ambulatory Care Settings",
-            "target": "Req. for Notifications",
-            "value": 168
-        },
-        {
-            "source": "Ancillary Care",
-            "target": "Req. for Information",
-            "value": 24
-        },
-        {
-            "source": "Ancillary Care",
-            "target": "Information Delivery",
-            "value": 24
-        },
-        {
-            "source": "Ancillary Care",
-            "target": "Req. for Notifications",
-            "value": 24
-        },
-        {
-            "source": "Community-Based Organizations",
-            "target": "Req. for Information",
-            "value": 28
-        },
-        {
-            "source": "Community-Based Organizations",
-            "target": "Information Delivery",
-            "value": 29
-        },
-        {
-            "source": "Community-Based Organizations",
-            "target": "Req. for Notifications",
-            "value": 28
-        },
-        {
-            "source": "Counties",
-            "target": "Req. for Information",
-            "value": 7
-        },
-        {
-            "source": "Counties",
-            "target": "Information Delivery",
-            "value": 7
-        },
-        {
-            "source": "Counties",
-            "target": "Req. for Notifications",
-            "value": 5
-        },
-        {
-            "source": "Emergency Medical Service Providers",
-            "target": "Req. for Information",
-            "value": 4
-        },
-        {
-            "source": "Emergency Medical Service Providers",
-            "target": "Information Delivery",
-            "value": 4
-        },
-        {
-            "source": "Emergency Medical Service Providers",
-            "target": "Req. for Notifications",
-            "value": 4
-        },
-        {
-            "source": "Intermediaries",
-            "target": "Req. for Information",
-            "value": 21
-        },
-        {
-            "source": "Intermediaries",
-            "target": "Information Delivery",
-            "value": 21
-        },
-        {
-            "source": "Intermediaries",
-            "target": "Req. for Notifications",
-            "value": 21
-        },
-        {
-            "source": "Plans",
-            "target": "Req. for Information",
-            "value": 27
-        },
-        {
-            "source": "Plans",
-            "target": "Information Delivery",
-            "value": 27
-        },
-        {
-            "source": "Plans",
-            "target": "Req. for Notifications",
-            "value": 27
-        },
-        {
-            "source": "Subacute Care Facility",
-            "target": "Req. for Information",
-            "value": 10
-        },
-        {
-            "source": "Subacute Care Facility",
-            "target": "Information Delivery",
-            "value": 10
-        },
-        {
-            "source": "Subacute Care Facility",
-            "target": "Req. for Notifications",
-            "value": 9
-        },
-        {
-            "source": "not selected",
-            "target": "Req. for Information",
-            "value": 16
-        },
-        {
-            "source": "not selected",
-            "target": "Information Delivery",
-            "value": 16
-        },
-        {
-            "source": "not selected",
-            "target": "Req. for Notifications",
-            "value": 16
-        },
-        {
-            "source": "Req. for Information",
-            "target": "Acute Care Settings",
-            "value": 109
-        },
-        {
-            "source": "Req. for Information",
-            "target": "Ambulatory Care Settings",
-            "value": 168
-        },
-        {
-            "source": "Req. for Information",
-            "target": "Ancillary Care",
-            "value": 24
-        },
-        {
-            "source": "Req. for Information",
-            "target": "Community-Based Organizations",
-            "value": 28
-        },
-        {
-            "source": "Req. for Information",
-            "target": "Counties",
-            "value": 7
-        },
-        {
-            "source": "Req. for Information",
-            "target": "Emergency Medical Service Providers",
-            "value": 4
-        },
-        {
-            "source": "Req. for Information",
-            "target": "Intermediaries",
-            "value": 21
-        },
-        {
-            "source": "Req. for Information",
-            "target": "Plans",
-            "value": 27
-        },
-        {
-            "source": "Req. for Information",
-            "target": "Subacute Care Facility",
-            "value": 10
-        },
-        {
-            "source": "Req. for Information",
-            "target": "not selected",
-            "value": 16
-        },
-        {
-            "source": "Information Delivery",
-            "target": "Acute Care Settings",
-            "value": 109
-        },
-        {
-            "source": "Information Delivery",
-            "target": "Ambulatory Care Settings",
-            "value": 167
-        },
-        {
-            "source": "Information Delivery",
-            "target": "Ancillary Care",
-            "value": 24
-        },
-        {
-            "source": "Information Delivery",
-            "target": "Community-Based Organizations",
-            "value": 29
-        },
-        {
-            "source": "Information Delivery",
-            "target": "Counties",
-            "value": 7
-        },
-        {
-            "source": "Information Delivery",
-            "target": "Emergency Medical Service Providers",
-            "value": 4
-        },
-        {
-            "source": "Information Delivery",
-            "target": "Intermediaries",
-            "value": 21
-        },
-        {
-            "source": "Information Delivery",
-            "target": "Plans",
-            "value": 27
-        },
-        {
-            "source": "Information Delivery",
-            "target": "Subacute Care Facility",
-            "value": 10
-        },
-        {
-            "source": "Information Delivery",
-            "target": "not selected",
-            "value": 16
-        },
-        {
-            "source": "Req. for Notifications",
-            "target": "Acute Care Settings",
-            "value": 108
-        },
-        {
-            "source": "Req. for Notifications",
-            "target": "Ambulatory Care Settings",
-            "value": 168
-        },
-        {
-            "source": "Req. for Notifications",
-            "target": "Ancillary Care",
-            "value": 24
-        },
-        {
-            "source": "Req. for Notifications",
-            "target": "Community-Based Organizations",
-            "value": 28
-        },
-        {
-            "source": "Req. for Notifications",
-            "target": "Counties",
-            "value": 5
-        },
-        {
-            "source": "Req. for Notifications",
-            "target": "Emergency Medical Service Providers",
-            "value": 4
-        },
-        {
-            "source": "Req. for Notifications",
-            "target": "Intermediaries",
-            "value": 21
-        },
-        {
-            "source": "Req. for Notifications",
-            "target": "Plans",
-            "value": 27
-        },
-        {
-            "source": "Req. for Notifications",
-            "target": "Subacute Care Facility",
-            "value": 9
-        },
-        {
-            "source": "Req. for Notifications",
-            "target": "not selected",
-            "value": 16
-        }
-    ]
+[{ "source": "Acute Care Settings", "target": "Query", "value": 96 },
+{ "source": "Acute Care Settings", "target": "Referral", "value": 96 },
+{ "source": "Acute Care Settings", "target": "ADT", "value": 95 },
+{ "source": "Ambulatory Care Settings", "target": "Query", "value": 162 },
+{
+  "source": "Ambulatory Care Settings",
+  "target": "Referral",
+  "value": 161
+},
+{ "source": "Ambulatory Care Settings", "target": "ADT", "value": 162 },
+{ "source": "Ancillary Care", "target": "Query", "value": 41 },
+{ "source": "Ancillary Care", "target": "Referral", "value": 41 },
+{ "source": "Ancillary Care", "target": "ADT", "value": 41 },
+{
+  "source": "Community-Based Organizations",
+  "target": "Query",
+  "value": 23
+},
+{
+  "source": "Community-Based Organizations",
+  "target": "Referral",
+  "value": 24
+},
+{ "source": "Community-Based Organizations", "target": "ADT", "value": 23 },
+{ "source": "Counties", "target": "Query", "value": 6 },
+{ "source": "Counties", "target": "Referral", "value": 6 },
+{ "source": "Counties", "target": "ADT", "value": 5 },
+{
+  "source": "Emergency Medical Service Providers",
+  "target": "Query",
+  "value": 5
+},
+{
+  "source": "Emergency Medical Service Providers",
+  "target": "Referral",
+  "value": 5
+},
+{
+  "source": "Emergency Medical Service Providers",
+  "target": "ADT",
+  "value": 5
+},
+{ "source": "Intermediaries", "target": "Query", "value": 17 },
+{ "source": "Intermediaries", "target": "Referral", "value": 17 },
+{ "source": "Intermediaries", "target": "ADT", "value": 17 },
+{ "source": "Pharmacy", "target": "Query", "value": 0 },
+{ "source": "Pharmacy", "target": "Referral", "value": 0 },
+{ "source": "Pharmacy", "target": "ADT", "value": 0 },
+{ "source": "Plans", "target": "Query", "value": 24 },
+{ "source": "Plans", "target": "Referral", "value": 24 },
+{ "source": "Plans", "target": "ADT", "value": 24 },
+{ "source": "Subacute Care Facility", "target": "Query", "value": 11 },
+{ "source": "Subacute Care Facility", "target": "Referral", "value": 11 },
+{ "source": "Subacute Care Facility", "target": "ADT", "value": 10 },
+{ "source": "not selected", "target": "Query", "value": 2 },
+{ "source": "not selected", "target": "Referral", "value": 2 },
+{ "source": "not selected", "target": "ADT", "value": 2 },
+{ "source": "Query", "target": "Manifest MedEx", "value": 184 },
+{ "source": "Query", "target": "Carequality", "value": 62 },
+{ "source": "Query", "target": "CommonWell Health Alliance", "value": 26 },
+{ "source": "Query", "target": "NOT APPLICABLE", "value": 22 },
+{ "source": "Query", "target": "SELF", "value": 21 },
+{ "source": "Query", "target": "eHealth Exchange", "value": 17 },
+{
+  "source": "Query",
+  "target": "Los Angeles Network for Enhanced Services (LANES)",
+  "value": 13
+},
+{ "source": "Query", "target": "Long Health", "value": 10 },
+{ "source": "Query", "target": "OTHER", "value": 7 },
+{ "source": "Query", "target": "Cozeva", "value": 7 },
+{ "source": "Query", "target": "San Diego Health Connect", "value": 6 },
+{ "source": "Query", "target": "SacValley MedShare", "value": 6 },
+{
+  "source": "Query",
+  "target": "Orange County Partners in Health HIE",
+  "value": 3
+},
+{ "source": "Query", "target": "Health Gorilla", "value": 2 },
+{ "source": "Query", "target": "ONBOARDING TO QHIO", "value": 1 },
+{ "source": "Referral", "target": "Manifest MedEx", "value": 183 },
+{ "source": "Referral", "target": "DirectTrust", "value": 32 },
+{ "source": "Referral", "target": "Carequality", "value": 30 },
+{
+  "source": "Referral",
+  "target": "CommonWell Health Alliance",
+  "value": 26
+},
+{ "source": "Referral", "target": "NOT APPLICABLE", "value": 22 },
+{ "source": "Referral", "target": "SELF", "value": 17 },
+{ "source": "Referral", "target": "eHealth Exchange", "value": 15 },
+{
+  "source": "Referral",
+  "target": "Los Angeles Network for Enhanced Services (LANES)",
+  "value": 14
+},
+{ "source": "Referral", "target": "OTHER", "value": 12 },
+{ "source": "Referral", "target": "Long Health", "value": 10 },
+{ "source": "Referral", "target": "Cozeva", "value": 7 },
+{ "source": "Referral", "target": "San Diego Health Connect", "value": 6 },
+{ "source": "Referral", "target": "SacValley MedShare", "value": 6 },
+{
+  "source": "Referral",
+  "target": "Orange County Partners in Health HIE",
+  "value": 3
+},
+{ "source": "Referral", "target": "Health Gorilla", "value": 2 },
+{
+  "source": "Referral",
+  "target": "Serving Communities Health Information Organization",
+  "value": 1
+},
+{ "source": "Referral", "target": "ONBOARDING TO QHIO", "value": 1 },
+{ "source": "ADT", "target": "Manifest MedEx", "value": 159 },
+{ "source": "ADT", "target": "NOT APPLICABLE", "value": 117 },
+{ "source": "ADT", "target": "SELF", "value": 51 },
+{
+  "source": "ADT",
+  "target": "Los Angeles Network for Enhanced Services (LANES)",
+  "value": 12
+},
+{ "source": "ADT", "target": "OTHER", "value": 9 },
+{ "source": "ADT", "target": "Long Health", "value": 9 },
+{ "source": "ADT", "target": "San Diego Health Connect", "value": 6 },
+{ "source": "ADT", "target": "SacValley MedShare", "value": 6 },
+{ "source": "ADT", "target": "Cozeva", "value": 6 },
+{
+  "source": "ADT",
+  "target": "Serving Communities Health Information Organization",
+  "value": 5
+},
+{
+  "source": "ADT",
+  "target": "Orange County Partners in Health HIE",
+  "value": 3
+},
+{ "source": "ADT", "target": "ONBOARDING TO QHIO", "value": 1 }]
